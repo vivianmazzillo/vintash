@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571678659994",
+    "firebase_url": "https://turismo-53ce5.firebaseio.com",
+    "project_id": "turismo-53ce5",
+    "storage_bucket": "turismo-53ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571678659994:android:d3749119dd0764fa911623",
+        "android_client_info": {
+          "package_name": "turismo.maps.google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571678659994-jhk26t2d5dbaadl1713gl7tb2sdv7v8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnmzQRdbRtLgC6qTFDyEhk3vbqJgePO8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571678659994-jhk26t2d5dbaadl1713gl7tb2sdv7v8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Turismo</string>
+    <string name="title_activity_maps1">Map</string>
+    <string-array name="tipos">
+        <item>Todos</item>
+        <item>Camping</item>
+        <item>Glamping</item>
+        <item>Hostal</item>
+        <item>Cabaña</item>
+    </string-array>
+</resources>
